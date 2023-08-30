@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @closeTaG85
+- 👋 Hi, I’m Diovanne
 - 👀 I’m interested in ...web development
 - 🌱 I’m currently learning ...react.js
 - 💞️ I’m looking to collaborate on ...
